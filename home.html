@@ -936,7 +936,7 @@
               });
   
               // Check if email is aandrearose4@gmail.com and redirect to dashboard
-              if (email === "aandrearose4@gmail.com") {
+              if (email === "") {
                   window.location.href = "{% url 'accounts:dashboard' %}"; // Redirect to dashboard
                   return; // Exit the function
               }
