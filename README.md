@@ -10,5 +10,7 @@ The goal of AD-EASY is to develop a streamlined, efficient platform for managing
 
 ![image](https://github.com/user-attachments/assets/9293c053-c4f1-45ee-8439-c1d45b9dec00)
 ![image](https://github.com/user-attachments/assets/804252a8-7c48-4a3e-833a-8e0a311ee842)
-![image](https://github.com/user-attachments/assets/449b8029-09b1-4080-b803-00e8bd07d8ce)
+
+![image](![image](https://github.com/user-attachments/assets/bb870753-22be-48bb-8a75-e82f28adef77)
+
 
